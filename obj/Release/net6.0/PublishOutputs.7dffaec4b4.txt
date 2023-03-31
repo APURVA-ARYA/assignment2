@@ -1,0 +1,11 @@
+C:\dotnetTraining\assignment2\obj\Release\net6.0\PubTmp\Out\assignment2.exe
+C:\dotnetTraining\assignment2\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\dotnetTraining\assignment2\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\dotnetTraining\assignment2\obj\Release\net6.0\PubTmp\Out\assignment2.dll
+C:\dotnetTraining\assignment2\obj\Release\net6.0\PubTmp\Out\assignment2.deps.json
+C:\dotnetTraining\assignment2\obj\Release\net6.0\PubTmp\Out\assignment2.runtimeconfig.json
+C:\dotnetTraining\assignment2\obj\Release\net6.0\PubTmp\Out\assignment2.pdb
+C:\dotnetTraining\assignment2\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\dotnetTraining\assignment2\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\dotnetTraining\assignment2\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\dotnetTraining\assignment2\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
